@@ -1,0 +1,6 @@
+C:\Users\Yama\Desktop\UTN.Foglia\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Yama\Desktop\UTN.Foglia\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Yama\Desktop\UTN.Foglia\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Yama\Desktop\UTN.Foglia\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Yama\Desktop\UTN.Foglia\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Yama\Desktop\UTN.Foglia\Entidades\Entidades\obj\Debug\Entidades.pdb
