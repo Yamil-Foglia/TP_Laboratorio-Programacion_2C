@@ -1,0 +1,40 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Loreley\Desktop\yamil\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\bin\Debug\TP-02.exe
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\bin\Debug\Entidades.dll
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\obj\Debug\TP-02.exe
+C:\Users\Yama\Desktop\UTN.Foglia\TP_Nro_2 Foglia Yamil\TP-02\obj\Debug\TP-02.pdb
